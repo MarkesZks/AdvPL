@@ -404,3 +404,14 @@ Dentro dessa pasta, terá um arquivo em Excel com uma lista de links úteis, e 5
    * **zVid0200.prw**: Bloquear Operações em Todas Telas de Cadastro em uma Filial
    * **custom.terminal.youtube.video0202.tlpp**: Preparando ambiente com RPCSetEnv e GetMV
    * **custom.terminal.youtube.video0203.tlpp**: Buscando o Resultado de uma Query através da MPSysExecScalar
+   * **zVid0204.prw**: Deixar pré-salvo os dados em uma tela
+   * **zVid0205.prw**:  Carregando um layout customizado da XB5 via XmlLoad na classe TReport
+   * **zVid0206.prw**: Mostrando a descrição do produto na SD1
+   * **zVid0207.prw**: Preencher informações do endereço conforme gatilho do campo CEP
+   * **custom.terminal.youtube.video0208.tlpp**: Como consumir uma API com verbo PATCH usando HttpQuote
+   * **custom.terminal.youtube.video0209.tlpp**: Gravando a quantidade da População de uma Cidade na tabela CC2
+   * **custom.terminal.youtube.video0210.tlpp**: Desativar um parâmetro conforme conteúdo de outro usando ParamBox
+   * **custom.terminal.youtube.video0211.tlpp**: Adicionando uma marca dágua em um relatório usando FWMSPrinter
+   * **zVid0212.prw**: Mostrando Acentuação numa API feita em REST
+   * **zVid0213.prw**: Ofuscar um campo no cadastro via código fonte
+   
