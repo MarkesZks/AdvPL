@@ -414,4 +414,12 @@ Dentro dessa pasta, terá um arquivo em Excel com uma lista de links úteis, e 5
    * **custom.terminal.youtube.video0211.tlpp**: Adicionando uma marca dágua em um relatório usando FWMSPrinter
    * **zVid0212.prw**: Mostrando Acentuação numa API feita em REST
    * **zVid0213.prw**: Ofuscar um campo no cadastro via código fonte
+   * **zVid0214.prw**: Fechando uma tela em MVC através de comandos
+   * **zVid0216.prw**: Abrindo uma tela em MVC dentro de outra tela em MVC (usando FWExecView)
+   * **custom.terminal.youtube.video0217.tlpp**: Criando duas abas em um Excel usando a classe FWMsExcelXlsx
+   * **custom.terminal.youtube.video0218.tlpp**: Exemplo de como acionar a FWAlertExitPage
+   * **custom.terminal.youtube.video0219.tlpp**: Criar colunas dinamicamente conforme intervalo de meses
+   * **custom.terminal.youtube.video0220.tlpp**: Relatório de Pedidos de Venda com Impostos em TReport
+   * **custom.terminal.youtube.video0222.tlpp**: Tela que gera um gráfico conforme a linha posicionada
+   * **custom.terminal.youtube.video0223.tlpp**: Como utilizar a classe TXMLManager
    
