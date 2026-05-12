@@ -422,4 +422,10 @@ Dentro dessa pasta, terá um arquivo em Excel com uma lista de links úteis, e 5
    * **custom.terminal.youtube.video0220.tlpp**: Relatório de Pedidos de Venda com Impostos em TReport
    * **custom.terminal.youtube.video0222.tlpp**: Tela que gera um gráfico conforme a linha posicionada
    * **custom.terminal.youtube.video0223.tlpp**: Como utilizar a classe TXMLManager
-   
+   * **custom.terminal.youtube.video0224.tlpp**: Modificar colunas de uma FWBrowse já existente
+   * **custom.terminal.youtube.video0226.tlpp**: Tocando um aviso sonoro via código fonte
+   * **zVid0227.prw**: WebService para inclusão de registros de forma genérica
+   * **custom.terminal.youtube.video0230.tlpp**: Bloquear digitação em TGet mas liberar leitor de código de barras
+   * **custom.terminal.youtube.video0231.tlpp**: Criando um gatilho numa TDialog
+   * **zVid0233.prw**: Imprimir Texto em Negrito em Antigos Fontes com SetPrint
+   * **custom.terminal.youtube.video0235.tlpp**: Montando lógica para página de e até via código fonte
