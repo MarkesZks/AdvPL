@@ -319,14 +319,6 @@ Dentro dessa pasta, terá um arquivo em Excel com uma lista de links úteis, e 5
    * **zVid0100.prw**: Como forçar um refresh de uma FWBrowse
    * **zVid0102.prw**: Como fazer um browse listar registros excluídos
    * **custom.terminal.youtube.video0104.tlpp**: Como usar Expressão regular no Protheus
-   * **custom.terminal.youtube.video0146.tlpp**: FWInputBox com quebra de linha
-   * **custom.terminal.youtube.video0148.tlpp**: Encontrando pulos de códigos em tabelas
-   * **custom.terminal.youtube.video0150.tlpp**: Como buscar o nome de um usuário que está bloqueando um registro via código fonte
-   * **custom.terminal.youtube.video0151.tlpp**: Validando usuários com a função FWAuthUser
-   * **custom.terminal.youtube.video0153.tlpp**: Como agrupar as informações em um Array
-   * **custom.terminal.youtube.video0154.tlpp**: Como apagar ou recuperar todas as linhas em uma Grid
-   * **custom.terminal.youtube.video0155.tlpp**: Como validar o espaço em disco disponível
-   * **custom.terminal.youtube.video0156.tlpp**: Consultar SINTEGRA direto via Dialog com TWebEngine e TWebChannel
    * **zVid0105.prw**: Quais são os botões disponíveis para usar no FormBatch
    * **zVid0106.prw**: Como colocar uma imagem em um TButton
    * **zVid0107.prw**: Como pegar o nome do Banco de Dados via código fonte
@@ -362,4 +354,78 @@ Dentro dessa pasta, terá um arquivo em Excel com uma lista de links úteis, e 5
    * **zVid0143.prw**: Como manipular uma tabela em SQLITE via AdvPL
    * **zVid0144.prw**: Adicionar validação de eMail nos campos
    * **zVid0145.prw**: Como criar uma FWmBrowse com uma dimensão menor
+   * **custom.terminal.youtube.video0146.tlpp**: FWInputBox com quebra de linha
    * **zVid0147.prw**: Como fazer relatório em Paisagem e Retrato com FWPrintSetup
+   * **custom.terminal.youtube.video0148.tlpp**: Encontrando pulos de códigos em tabelas
+   * **custom.terminal.youtube.video0150.tlpp**: Como buscar o nome de um usuário que está bloqueando um registro via código fonte
+   * **custom.terminal.youtube.video0151.tlpp**: Validando usuários com a função FWAuthUser
+   * **custom.terminal.youtube.video0153.tlpp**: Como agrupar as informações em um Array
+   * **custom.terminal.youtube.video0154.tlpp**: Como apagar ou recuperar todas as linhas em uma Grid
+   * **custom.terminal.youtube.video0155.tlpp**: Como validar o espaço em disco disponível
+   * **custom.terminal.youtube.video0156.tlpp**: Consultar SINTEGRA direto via Dialog com TWebEngine e TWebChannel
+   * **custom.terminal.youtube.video0157.tlpp**: Apagando linhas de uma FWBrowse e pintando o fundo de cinza
+   * **custom.terminal.youtube.video0159.tlpp**: Identificando possíveis erros em consultas SQL via PLSQuery
+   * **zVid0161.prw**: Como extrair o código zebra ZPL de um MSCBPrinter
+   * **custom.terminal.youtube.video0162.tlpp**: Entendendo o acionamento dos parâmetros nas funções
+   * **custom.terminal.youtube.video0163.tlpp**: Como gravar as respostas de perguntas em um ParamBox
+   * **zVid0165.prw**: Como gravar um log das rotinas e módulos mais usados
+   * **custom.terminal.youtube.video0166.tlpp**: Relatório TReport com 3 seções distintas
+   * **custom.terminal.youtube.video0167.tlpp**: Exemplo de ExecAuto da rotina APDA020 (cadastro de Participantes)
+   * **zVid0168.prw**: Copiar filtros no profile de usuários
+   * **custom.terminal.youtube.video0169.tlpp**: Criando um FWMarkBrowse dentro de um TToolBox
+   * **custom.terminal.youtube.video0170.tlpp**: Como fazer um box dinâmico em FWMSPrinter
+   * **custom.terminal.youtube.video0171.tlpp**: Como usar o IN no FWPreparedStatement
+   * **zVid0172.prw**: Solicitar um motivo na Exclusão de NF de Saída através do p.e. SF2520E
+   * **custom.terminal.youtube.video0173.tlpp**: Importar um CSV mostrando uma tela antes de confirmar
+   * **custom.terminal.youtube.video0175.tlpp**: Como fazer para num FWInputBox aceitar apenas números
+   * **zVid0176.prw**: Criando um campo editável apenas por usuários de um determinado Grupo
+   * **custom.terminal.youtube.video0177.tlpp**: Como fazer disparo de vários registros gravando flag do que já foi processado
+   * **custom.terminal.youtube.video0178.tlpp**: Abrindo a tela de Pedido de Compras preenchendo a grid com informações
+   * **custom.terminal.youtube.video0179.tlpp**: Realizando quebra em um Excel através da FWPrinterXLSX
+   * **zVid0180.prw**: Como fazer para que a senha de um usuário nunca expire no Protheus
+   * **zVid0181.prw**: ExecAuto no Cadastro de Filiais (tabela SM0)
+   * **custom.terminal.youtube.video0182.tlpp**: Como transformar um campo em Date em uma query executada no Protheus
+   * **custom.terminal.youtube.video0183.tlpp**: O que significa os Asteriscos ao visualizar um campo
+   * **custom.terminal.youtube.video0184.tlpp**: Buscar o próximo sequencial de NF de uma série com a função NxtSX5Nota
+   * **zVid0185.prw**: Alterar Fornecedor de um Pedido de Compras
+   * **zVid0187.prw**: Validar se uma Grid esta Vazia em um Ponto de Entrada em MVC
+   * **custom.terminal.youtube.video0186.tlpp**: Alterar a Cor de uma Coluna em um Browse
+   * **custom.terminal.youtube.video0188.tlpp**: Fazendo linhas mais grossas em FWMSPrinter
+   * **zVid0189.prw**: Criando um Log de Disparo de eMails
+   * **custom.terminal.youtube.video0190.tlpp**: Fazendo um Try … Catch em um controle de transações 
+   * **custom.terminal.youtube.video0191.tlpp**: Como mudar a cor dentro de uma aba de um TFolder
+   * **custom.terminal.youtube.video0192.tlpp**: Executando a validação do modo de edição via código fonte com a função X3WhenGet
+   * **zVid0193.prw**: Implementando a Autenticação em Dois Fatores (2FA) no Login do Protheus
+   * **zVid0194.prw**: Campo MEMO um do lado do outro em MVC
+   * **custom.terminal.youtube.video0195.tlpp**: Realçar célula posicionada de um FWBrowse
+   * **custom.terminal.youtube.video0196.tlpp**: Usando a função Ma410Impos para Buscar o Total do Pedido com Impostos
+   * **custom.terminal.youtube.video0197.tlpp**: Como fazer uma Query com Campos Dinâmicos conforme algumas regras
+   * **custom.terminal.youtube.video0199.tlpp**: Criando um MarkBrowse com Mais de uma Coluna de Legenda
+   * **zVid0200.prw**: Bloquear Operações em Todas Telas de Cadastro em uma Filial
+   * **custom.terminal.youtube.video0202.tlpp**: Preparando ambiente com RPCSetEnv e GetMV
+   * **custom.terminal.youtube.video0203.tlpp**: Buscando o Resultado de uma Query através da MPSysExecScalar
+   * **zVid0204.prw**: Deixar pré-salvo os dados em uma tela
+   * **zVid0205.prw**:  Carregando um layout customizado da XB5 via XmlLoad na classe TReport
+   * **zVid0206.prw**: Mostrando a descrição do produto na SD1
+   * **zVid0207.prw**: Preencher informações do endereço conforme gatilho do campo CEP
+   * **custom.terminal.youtube.video0208.tlpp**: Como consumir uma API com verbo PATCH usando HttpQuote
+   * **custom.terminal.youtube.video0209.tlpp**: Gravando a quantidade da População de uma Cidade na tabela CC2
+   * **custom.terminal.youtube.video0210.tlpp**: Desativar um parâmetro conforme conteúdo de outro usando ParamBox
+   * **custom.terminal.youtube.video0211.tlpp**: Adicionando uma marca dágua em um relatório usando FWMSPrinter
+   * **zVid0212.prw**: Mostrando Acentuação numa API feita em REST
+   * **zVid0213.prw**: Ofuscar um campo no cadastro via código fonte
+   * **zVid0214.prw**: Fechando uma tela em MVC através de comandos
+   * **zVid0216.prw**: Abrindo uma tela em MVC dentro de outra tela em MVC (usando FWExecView)
+   * **custom.terminal.youtube.video0217.tlpp**: Criando duas abas em um Excel usando a classe FWMsExcelXlsx
+   * **custom.terminal.youtube.video0218.tlpp**: Exemplo de como acionar a FWAlertExitPage
+   * **custom.terminal.youtube.video0219.tlpp**: Criar colunas dinamicamente conforme intervalo de meses
+   * **custom.terminal.youtube.video0220.tlpp**: Relatório de Pedidos de Venda com Impostos em TReport
+   * **custom.terminal.youtube.video0222.tlpp**: Tela que gera um gráfico conforme a linha posicionada
+   * **custom.terminal.youtube.video0223.tlpp**: Como utilizar a classe TXMLManager
+   * **custom.terminal.youtube.video0224.tlpp**: Modificar colunas de uma FWBrowse já existente
+   * **custom.terminal.youtube.video0226.tlpp**: Tocando um aviso sonoro via código fonte
+   * **zVid0227.prw**: WebService para inclusão de registros de forma genérica
+   * **custom.terminal.youtube.video0230.tlpp**: Bloquear digitação em TGet mas liberar leitor de código de barras
+   * **custom.terminal.youtube.video0231.tlpp**: Criando um gatilho numa TDialog
+   * **zVid0233.prw**: Imprimir Texto em Negrito em Antigos Fontes com SetPrint
+   * **custom.terminal.youtube.video0235.tlpp**: Montando lógica para página de e até via código fonte
